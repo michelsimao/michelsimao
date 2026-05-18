@@ -8,4 +8,4 @@ Sou especialista em Infraestrutura Cloud / DevOps e desenvolvedor focado em auto
 - **Programação & Automação:** Python, JavaScript, SQL.
 - **AI & Dados:** Integração de LLMs, Frameworks de Agentes (OpenClaw/PicoClaw), Bancos Vetoriais (pgvector), RAG para PMEs.
 
-📫 Como me encontrar: [Seu LinkedIn](https://www.linkedin.com/in/michelsimao) | [Seu E-mail](michelsimao@gmail.com)
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/michelsimao) | [E-mail](michelsimao@gmail.com)
