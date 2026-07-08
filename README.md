@@ -6,6 +6,6 @@ Sou especialista em Infraestrutura Cloud / DevOps e desenvolvedor focado em auto
 
 - **Cloud & IaC:** AWS, Terraform, Docker, Kubernetes, CI/CD Pipelines.
 - **Programação & Automação:** Python, JavaScript, SQL.
-- **AI & Dados:** Integração de LLMs, Frameworks de Agentes (OpenClaw/PicoClaw), Bancos Vetoriais (pgvector), RAG para PMEs.
+- **AI & Dados:** Integração de LLMs, Frameworks de Agentes (Hermes), Bancos Vetoriais (pgvector), RAG para PMEs.
 
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/michelsimao) | michelsimao@gmail.com
